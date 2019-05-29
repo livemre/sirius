@@ -1,0 +1,9 @@
+Building Sirius
+
+See doc/readme-qt.rst for instructions on building Sirius-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sirius.
+
+See doc/build-*.txt for instructions on building siriusd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sirius.
